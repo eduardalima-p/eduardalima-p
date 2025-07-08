@@ -2,7 +2,7 @@
 
 ---
 
-Google (Noto Color Emoji 16.0) Engenharia da computação | UFMA 
+📖 Engenharia da computação | UFMA 
 💻 Atuo em Ciência de dados e desenvolvimento web.
 
 ---
