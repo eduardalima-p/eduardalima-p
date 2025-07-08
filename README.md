@@ -17,9 +17,9 @@
 
 ### 📊 GitHub Stats
 
-![Estatísticas da Maria Eduarda](https://github-readme-stats.vercel.app/api?username=mariaeduardapereiralima&show_icons=true&theme=calm&hide_title=true)
+![Estatísticas da Maria Eduarda](https://github-readme-stats.vercel.app/api?username=eduardalima-p&show_icons=true&theme=calm&hide_title=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardapereiralima&layout=compact&theme=calm)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardalima-p&layout=compact&theme=calm)
 
 ---
 
