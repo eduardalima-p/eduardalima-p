@@ -1,12 +1,12 @@
 ### Olá, mundo! 🌐
 
--
+--
 
 📖 Engenharia da computação | UFMA 
 
 💻 Atuo em Ciência de dados e desenvolvimento web.
 
--
+--
 
 ### 🖱️ Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
