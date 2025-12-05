@@ -1,11 +1,9 @@
-### Olá, mundo! 🌐
+### hello world! 🌐
 
 ----
 
-📖 Engenharia da computação | UFMA 
-
-💻 Atuo em Ciência de dados e desenvolvimento web.
-
+Engenharia da computação - UFMA
+Ciência de dados | Visão computacional | Desenvolvimento
 ---
 
 ### 🖱️ Tecnologias
